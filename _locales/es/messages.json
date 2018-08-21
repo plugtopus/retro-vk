@@ -1,0 +1,41 @@
+{
+   "desc": {
+      "message": "The extension allows you to turn on retro theme for Vkontakte website"
+   },
+   "name": {
+      "message": "Retro VK"
+   },
+   "enable": {
+      "message": "Enable or disable extension"
+   },
+   "option_audio": {
+      "message": "Show audio album covers"
+   },
+   "option_cover": {
+      "message": "Use adapted community covers"
+   },
+   "option_font": {
+      "message": "Use large fonts"
+   },
+   "option_im": {
+      "message": "Show images on buttons instead of text in messages"
+   },
+   "option_viewer": {
+      "message": "Use new photo viewer"
+   },
+   "options": {
+      "message": "Options"
+   },
+   "save": {
+      "message": "Save"
+   },
+   "saved": {
+      "message": "Options saved"
+   },
+   "support": {
+      "message": "Support"
+   },
+   "updateStyle": {
+      "message": "Update style"
+   }
+}
